@@ -1,0 +1,16 @@
+{
+    "todos": [
+        {
+            "title": "Task 1",
+            "responsible": "Mark",
+            "description": "lorem ipsum",
+            "priority": "Low"
+        },
+        {
+            "title": "Task 2",
+            "responsible": "Camilo",
+            "description": "lorem ipsum2",
+            "priority": "High"
+        }
+    ]
+}
